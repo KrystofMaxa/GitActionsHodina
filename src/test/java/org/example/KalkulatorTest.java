@@ -12,6 +12,7 @@ class KalkulatorTest {
         assertTrue(kalkulator.nasobic()==12);
     }
 
+
     @Test
     void scitanec() {
         Kalkulator kalkulator = new Kalkulator(13,4);
