@@ -12,7 +12,7 @@ class KalkulatorTest {
 
     @org.junit.jupiter.api.Test
     void scitanec() {
-        Kalkulator kalkulator = new Kalkulator(3,4);
+        Kalkulator kalkulator = new Kalkulator(13,4);
         assertTrue(kalkulator.scitanec()==7);
     }
 }
